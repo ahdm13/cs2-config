@@ -1,2 +1,2 @@
 # cs2-config
-My Counter-Strike 2 config files
+My Counter-Strike 2 config files.
